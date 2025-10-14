@@ -1,3 +1,7 @@
-# 엠페르트
- 
-![Empert image](/images/Empert_1.png)
+# Open Source Software Design and Lab
+
+ **조원**
+ - 정윤철
+ - 권병혁
+ - 박상현
+
