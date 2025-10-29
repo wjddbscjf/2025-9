@@ -1,5 +1,7 @@
 # 🎵 감정 기반 음악 추천 일기 (Emotion-based Music Diary)
 ---
+<img src="images/logo.jpg" width=400>
+<img src="images/logo_2.png" width=400>
 
 ## 🧠 Abstract
 
@@ -11,8 +13,8 @@
 
 ## 🖼️ Project Overview
 
-진행 중
-
+<img src="images/chart.jpg" width=100%>
+<img src="images/chart_2.png" width=100%>
 ---
 
 ## 🧩 Core Features
@@ -22,7 +24,6 @@
 - 🎶 **음악 추천 기능** – 감정에 맞는 음악 리스트 출력 (DB 또는 API 기반)  
 - 🎨 **감정별 컬러 테마 UI** – 감정에 따라 달라지는 배경 및 인터페이스 색상  
 - 🌐 **웹 배포 가능** – GitHub Pages 또는 Render를 통해 웹에서 접근 가능  
-
 ---
 
 ## ⚙️ Technologies Used
