@@ -32,7 +32,7 @@
 | **Frontend** | HTML, CSS, JavaScript (또는 EJS) |
 | **Backend** | Node.js, Express |
 | **Database (optional)** | JSON-based local DB or MongoDB |
-| **API** | openAI | YouTube Search API(optional) / Spotify API(optional) |
+| **API** | openAI / YouTube Search API(optional) / Spotify API(optional) |
 | **Version Control** | GitHub, Git |
 | **Deployment** | GitHub Pages / Render / Vercel |
 
