@@ -32,7 +32,7 @@
 | **Frontend** | HTML, CSS, JavaScript (또는 EJS) |
 | **Backend** | Node.js, Express |
 | **Database (optional)** | JSON-based local DB or MongoDB |
-| **API** | openAI / YouTube Search API(optional) / Spotify API(optional) |
+| **API** | openAI / YouTube Search API/ Spotify API |
 | **Version Control** | GitHub, Git |
 | **Deployment** | GitHub Pages / Render / Vercel |
 
@@ -89,4 +89,5 @@ npm start
 - [ ] WEEK 5
 - [ ] WEEK 6
 - [ ] WEEK 7 (FINAL)
-
+---
+## 모든 진행과정은 변경 될 수 있습니다.
