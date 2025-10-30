@@ -1,6 +1,5 @@
 # 🎵 감정 기반 음악 추천 일기 (Emotion-based Music Diary)
 ---
-<img src="images/logo.jpg" width=400>
 <img src="images/logo_2.png" width=400>
 
 ## 🧠 Abstract
@@ -15,7 +14,6 @@
 
 <img src="images/chart.jpg" width=100%>
 <img src="images/chart_2.png" width=100%>
----
 
 ## 🧩 Core Features
 
