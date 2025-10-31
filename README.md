@@ -69,8 +69,7 @@
 
 ```bash
 # 1️⃣ Clone Repository
-git clone https://github.com/wjddbscjf/2025-9.git
-cd 2025-9
+git clone https://github.com/wjddbscjf/Emotion-based_Music_Diary.git
 
 # 2️⃣ Install Dependencies
 npm install
